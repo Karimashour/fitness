@@ -7,8 +7,8 @@ https://karimashour.github.io/fitness/
 # tools :
 - html
 - css
+- javascript
 - bootstrap
-- bootstrap icons
 - jquery
 
 
