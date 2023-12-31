@@ -13,4 +13,4 @@ https://karimashour.github.io/fitness/
 
 
 # features
-- squash sport landing page 
+- fitness website landing page 
